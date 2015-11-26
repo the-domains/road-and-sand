@@ -7,7 +7,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: 'http://roadandsand.com'
+  google: UA-70708696-1
   facebook: null
   twitter: null
 opengraph:
