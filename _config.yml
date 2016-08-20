@@ -1,7 +1,18 @@
+layout_spectrum: 0.4846233236603439
+typography_spectrum: 0.9519033255055547
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.019338314421474934
+  lightness: 0.6986086170654744
+  saturation: 0.9147475073114038
+  rhythmicContrast: 0.844177020015195
 name: Road and Sand
 favicon: null
-layout_spectrum: 0.5912964181043208
-typography_spectrum: 0.132483531255275
 cta:
   domain: null
   bucket: null
@@ -14,10 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.125
-  lightness: 0.9897761810570955
-  saturation: 0.9407766361255199
-  rhythmicContrast: 0.2952966510783881
 purpose: []
