@@ -1,16 +1,16 @@
-layout_spectrum: 0.034374443581327796
-typography_spectrum: 0.6186237495858222
+layout_spectrum: 0.4739340879023075
+typography_spectrum: 0.027197523042559624
 color:
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  brandStrength: 0.019338314421474934
-  lightness: 0.6986086170654744
-  saturation: 0.9147475073114038
-  rhythmicContrast: 0.844177020015195
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+  brandStrength: 0.38704973249696195
+  lightness: 0.3239861433394253
+  saturation: 0.36869634059257805
+  rhythmicContrast: 0.44113149237819016
 name: Road and Sand
 favicon: null
 cta:
